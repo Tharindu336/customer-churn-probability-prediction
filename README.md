@@ -127,3 +127,25 @@ Data-driven decision making
  ┣ 📊 customer_churn.csv
  ┣ 📈 visualizations/
  ┗ 📄 README.md
+
+ 🔮 Future Improvements
+
+Hyperparameter tuning (GridSearchCV)
+
+SHAP explainability integration
+
+XGBoost implementation
+
+Deployment with Streamlit
+
+Docker containerization
+
+REST API model serving
+
+📌 Why This Project Stands Out
+
+✔ Continuous probability modeling (not basic classification)
+✔ Strong evaluation methodology
+✔ Clean visualization aesthetics
+✔ Business-aligned interpretation
+✔ Portfolio-ready production structure
